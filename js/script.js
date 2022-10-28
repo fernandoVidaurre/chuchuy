@@ -1,0 +1,1 @@
+archivo para script de la pagina
