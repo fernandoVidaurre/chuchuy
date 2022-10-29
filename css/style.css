@@ -1,3 +1,31 @@
-*{
-	background:red;
+
+header {
+    background:black;
+    padding: 5px 0;
+    height: 135px;
 }
+
+nav{
+	margin-left: 0px;
+	margin-top: 5px;
+	
+  }
+  .imgCarousel{
+	height: 480px;
+  }
+
+footer{
+    text-align: center;
+    padding:0px;
+	background: black;
+	height: 105px;
+}
+.copyright{
+    font-size: 13px;
+    margin:0px;
+	color: white;
+}
+
+
+
+ 
